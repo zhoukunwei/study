@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a35b3331-bcdc-4c94-b954-2c8a85b16800" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="mydjango1" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WduhekX9TSk7lsHXVmuuFfvaTE" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/mydjangoTest-master" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Django server.mydjango1">
+    <configuration name="Test: myweb" type="DjangoTestsConfigurationType" temporary="true">
+      <module name="mydjango1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="TARGET" value="myweb" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="mydjango1" type="Python.DjangoServer" factoryName="Django server">
+      <module name="mydjango1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="mydjango1.settings" />
+      </envs>
+      <option name="SDK_HOME" value="$PROJECT_DIR$/venv/bin/python" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="9000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Django tests.Test: myweb" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a35b3331-bcdc-4c94-b954-2c8a85b16800" name="Default Changelist" comment="" />
+      <created>1579491913347</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579491913347</updated>
+      <workItem from="1579491926913" duration="8265000" />
+      <workItem from="1579514493826" duration="12325000" />
+      <workItem from="1579570525334" duration="1555000" />
+      <workItem from="1579580279517" duration="1402000" />
+      <workItem from="1579604500786" duration="1525000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="541" y="62" width="800" height="664" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1579670268719">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="541" y="62" width="800" height="664" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.768@0.0.1366.768" timestamp="1579670268719" />
+    <state x="466" y="142" width="424" height="480" key="FileChooserDialogImpl" timestamp="1579519192633">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="466" y="142" width="424" height="480" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1579519192633" />
+    <state width="1320" height="184" key="GridCell.Tab.0.bottom" timestamp="1579668270929">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1320" height="184" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1579668270929" />
+    <state width="1320" height="184" key="GridCell.Tab.0.center" timestamp="1579668270928">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1320" height="184" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1579668270928" />
+    <state width="1320" height="184" key="GridCell.Tab.0.left" timestamp="1579668270927">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1320" height="184" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1579668270927" />
+    <state width="1320" height="184" key="GridCell.Tab.0.right" timestamp="1579668270928">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1320" height="184" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1579668270928" />
+    <state width="191" height="500" key="HiddenNamespacesPopup" timestamp="1579670266389">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="191" height="500" key="HiddenNamespacesPopup/0.0.1366.768@0.0.1366.768" timestamp="1579670266389" />
+    <state x="194" y="19" key="SettingsEditor" timestamp="1579571809313">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="194" y="19" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1579571809313" />
+    <state x="380" y="211" key="com.intellij.ide.util.TipDialog" timestamp="1579604502230">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="380" y="211" key="com.intellij.ide.util.TipDialog/0.0.1366.768@0.0.1366.768" timestamp="1579604502230" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/myweb/views.py</url>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/mydjango1$Test__myweb.coverage" NAME="Test: myweb Coverage Results" MODIFIED="1579571379709" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+  </component>
+</project>

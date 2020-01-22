@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Users</title>
+</head>
+<body>
+<a href="/myweb/openUserAdd" >添加</a>
+<table border="1">
+        <thead>
+        <tr>
+            <th>ID</th>
+            <th>用户名</th>
+            <th>密码</th>
+            <th>地址</th>
+            <th>数量</th>
+            <th>操作</th>
+        </tr>
+        </thead>
+        <tbody>
+        {% for row in ls %}
+            <tr>
+                <td>{{ row.id }}</td>
+                <td>{{ row.username }}</td>
+                <td>{{ row.password }}</td>
+                <td>{{ row.add }}</td>
+                <td>{{ row.stock}}</td>
+                <td>
+                    <a href="/myweb/deleteUser?id={{ row.id }}">删除</a>
+                    |
+                    <a href="/myweb/openEdit?id={{ row.id }}">编辑</a>
+                </td>
+            </tr>
+        {% endfor %}
+        </tbody>
+    </table>
+</body>
+</html>
